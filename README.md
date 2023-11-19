@@ -10,3 +10,7 @@ Search Functionality: Users can easily search for specific topics or keywords to
 User-Friendly Interface: The website boasts a clean and intuitive interface, making navigation a breeze.
 
 Responsive Design: AAPKI-NEWS is designed to be responsive across various devices, ensuring a consistent user experience.
+
+
+https://github.com/ARPIT0077/AAPKI-NEWS/assets/100009370/107b318d-dc1f-400c-8ce1-b86710ef944c
+
